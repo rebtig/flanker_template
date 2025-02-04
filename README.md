@@ -9,4 +9,5 @@ The date is the most recent substantial commit on Gitlab.
 Code written in PsychoPy version 2024.2.3
 
 References:
+
 Eriksen, B.A., Eriksen, C.W. Effects of noise letters upon the identification of a target letter in a nonsearch task. Perception & Psychophysics 16, 143–149 (1974). https://doi.org/10.3758/BF03203267
