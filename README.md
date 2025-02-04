@@ -4,7 +4,7 @@ Before running the experiment, make sure to go to the conditions file (condition
 
 For APA (7th edition) please cite as:
 
-Mifsud, R. (2025, February 4). Flanker template [Computer software]. PsychoPy. https://doi.org/10.17605/OSF.IO/HJ2EY
+Mifsud, R. (2025, February 4). Flanker template [Computer software]. Psychopy. https://doi.org/10.17605/OSF.IO/B8S5A
 
 The date is the most recent substantial commit on Gitlab.
 
