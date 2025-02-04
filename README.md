@@ -1,6 +1,6 @@
-This demo implements the Eriksen Flanker task (Eriksen & Eriksen, 1974) in PsychoPy. PsychoPy must be installed on your computer for this to run.
+This demo implements the Eriksen Flanker task (Eriksen & Eriksen, 1974) in PsychoPy. PsychoPy must be installed on your device for this to run.
 
-Before running the experiment, make sure to go to the conditions file (conditions_image.xlsx) and insert the correct paths under the "image" column depending on where you have saved the experiment on your computer.
+Before running the experiment, make sure to go to the conditions file (conditions_image.xlsx) and insert the correct paths under the "image" column depending on where you have saved the experiment on your device.
 
 For APA (7th edition) please cite as:
 
